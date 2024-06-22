@@ -10,10 +10,12 @@ Assigned By- CodeClause Internship<br>
 
 # Aim -
 
-Build an interactive quiz game.
+Develop a Github Explorer web application.
+
 
 # Description-
-Develop a quiz app with multiple-choice questions and a scoring system.
+Create an app that allows users to explore Github repositories. Include features like
+repository search, detailed repository information, and user profiles.
 
 # Technologies-
 HTML, CSS, JavaScript

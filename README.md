@@ -19,4 +19,4 @@ repository search, detailed repository information, and user profiles.
 HTML, CSS, JavaScript
 
 # Deployed Link :
-https://ranvijay-kumar4.github.io/CodeClauseInternship_Github_Explorer/
+https://ranvijay-kumar4.github.io/Github_Explorer/

@@ -1,1 +1,1 @@
-# CodeClauseInternship_Github_Explorer
+# Github_Explorer
